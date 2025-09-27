@@ -1,0 +1,4 @@
+sector,promise_text,promised,target_year,delivered,delivered_year,confidence,index,source,source_url,date,unit_hint
+Health,Ministry of Health will build 20 hospitals by 2026.,20.0,2026,5.68049145,2022.0,0.5,54.2,,,2024,
+Education,Government plans to raise primary enrollment to 95% by 2025.,95.0,2025,114.473091125488,2023.0,0.5,90.0,,,2024,
+Environment,Target 10% CO2 reduction by 2030.,10.0,2030,,,0.5,84.0,,,2024,

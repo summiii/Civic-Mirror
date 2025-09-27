@@ -1,0 +1,12 @@
+pandas
+requests
+beautifulsoup4
+lxml
+plotly
+gradio
+tqdm
+python-dotenv
+pdfplumber
+# Optional tools for exporting notebooks to PDF locally (not needed on Colab):
+# nbconvert
+# pyppeteer

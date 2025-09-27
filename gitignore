@@ -1,0 +1,29 @@
+# --- Data artifacts (keep repo light) ---
+data/raw/
+data/interim/
+data/**/*.tmp
+*.tmp
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.orig.ipynb
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+
+# --- Environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Secrets / config (if any) ---
+.env
+*.env
+secrets.*
